@@ -1,0 +1,20 @@
+{
+  "name": "asigphi-website",
+  "version": "1.0.0",
+  "description": "Beta Psi chapter of Alpha Sigma Phi at RPI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iveyd/asigphi-betapsi-website.git"
+  },
+  "author": "David Ivey",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "httpd": "0.0.2"
+  }
+}
